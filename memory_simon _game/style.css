@@ -1,0 +1,51 @@
+body {
+    background-color: aquamarine;
+}
+
+button {
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+}
+
+#red {
+    border-color: brown;
+    background-color: red;
+    position: relative;
+    top: 20rem;
+    left: 40rem;
+}
+
+#green {
+    border-color: green;
+    background-color: greenyellow;
+    position: relative;
+    top: 20rem;
+    left: 42rem;
+}
+
+#yellow {
+    border-color: burlywood;
+    background-color: rgb(223, 89, 0);
+    position: relative;
+    top: 35rem;
+    left: 14.35rem;
+}
+
+#blue {
+    border-color: blue;
+    background-color: blueviolet;
+    position: relative;
+    position: relative;
+    top: 35rem;
+    left: 16.35rem;
+}
+
+#division {
+    position: relative;
+    bottom: 10rem;
+}
+
+.pressed {
+    opacity: 50%;
+}
